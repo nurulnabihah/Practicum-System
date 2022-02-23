@@ -5,6 +5,6 @@
 
 ## Introduction
 This is my final year project called Practicum Assessment Management System.
-This project uses PHP, MySQL, HTML, CSS and JavaScript to develop and design the system and database. 
+This project uses PHP, MySQL, HTML, CSS and JavaScript to develop and design the system and the database. 
 
 
