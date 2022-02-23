@@ -7,6 +7,9 @@
 This is my final year project called Practicum Assessment Management System.
 This project uses PHP, MySQL, HTML, CSS and JavaScript to develop and design the system and the database. 
 
+## Project Link
+https://www.saujanaeclipse.com/practicum_system/login.php
+
 ## User Manual
 Admin: 
 https://drive.google.com/file/d/184rXxnbfKhylFh3beF1tfiZsdC_gSH1_/view?usp=sharing
